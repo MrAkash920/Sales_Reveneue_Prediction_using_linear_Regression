@@ -1,4 +1,4 @@
-# Sales_Reveneue_Prediction_using_linear_learning
+# Sales_Reveneue_Prediction_using_linear_Regression
 ## Overview
 
 This repository contains a simple yet effective implementation of linear regression for sales revenue prediction. Predicting sales revenue is crucial for businesses to make informed decisions, and this project aims to provide a straightforward solution for this task.
@@ -18,7 +18,7 @@ This repository contains a simple yet effective implementation of linear regress
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/MrAkash920/Sales_Reveneue_Prediction_using_linear_learning.git
+   git clone https://github.com/MrAkash920/Sales_Reveneue_Prediction_using_linear_Regression.git
 
 ## Contributing
 
